@@ -3,6 +3,4 @@ venv/
 */.ipynb_checkpoints/
 
 # 檔案太大，超過100MB
-D4_EDA_讀取資料與分析流程/data/
-D6_EDA_欄位的資料類型介紹及處理/data/
-D8_EDA資料分佈/data/
+data/
