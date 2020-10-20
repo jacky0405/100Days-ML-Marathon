@@ -3,4 +3,4 @@ venv/
 */.ipynb_checkpoints/
 
 # 檔案太大，超過100MB
-data/
+data/application_train.csv
