@@ -15,4 +15,11 @@ D011. [常用的數值取代：中位數與分位數連續數值標準化](https
 D012. [數值型特徵-補缺失值與標準化](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D12_%E6%95%B8%E5%80%BC%E5%9E%8B%E7%89%B9%E5%BE%B5_%E8%A3%9C%E7%BC%BA%E5%A4%B1%E5%80%BC%E8%88%87%E6%A8%99%E6%BA%96%E5%8C%96) - 數值型特徵首先必須填補缺值與標準化，在此複習並展示對預測結果的差異  
 D013. [常用的 DataFrame 操作](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D13_%E5%B8%B8%E7%94%A8%E7%9A%84%20DataFrame%20%E6%93%8D%E4%BD%9C) - 常見的資料操作方法及資料表串接  
 D014. [EDA_相關係數簡介](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D14_%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9CEDA_correlation_%E7%9B%B8%E9%97%9C%E4%BF%82%E6%95%B8%E7%B0%A1%E4%BB%8B) - 了解相關係數及利用相關係數直觀地理解對欄位與預測目標之間的關係  
-D015. [EDA from Correlation](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D15_EDA%20from%20Correlation) - 深入了解資料，從 correlation 的結果下手
+D015. [EDA from Correlation](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D15_EDA%20from%20Correlation) - 深入了解資料，從 correlation 的結果下手  
+D016. [EDA_不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D16_EDA_%E4%B8%8D%E5%90%8C%E6%95%B8%E5%80%BC%E7%AF%84%E5%9C%8D%E9%96%93%E7%9A%84%E7%89%B9%E5%BE%B5%E5%A6%82%E4%BD%95%E6%AA%A2%E8%A6%96_%E7%B9%AA%E5%9C%96%E8%88%87%E6%A8%A3%E5%BC%8FKernel%20Density%20Estimation%20(KDE)) - 如何調整視覺化方式檢視數值範圍及美圖修飾  
+D017. [EDA_把連續型變數離散化](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D17_EDA_%E6%8A%8A%E9%80%A3%E7%BA%8C%E5%9E%8B%E8%AE%8A%E6%95%B8%E9%9B%A2%E6%95%A3%E5%8C%96) - 簡化連續性變數  
+D018. [程式實作_把連續型變數離散化](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D18_%E7%A8%8B%E5%BC%8F%E5%AF%A6%E4%BD%9C_%E6%8A%8A%E9%80%A3%E7%BA%8C%E5%9E%8B%E8%AE%8A%E6%95%B8%E9%9B%A2%E6%95%A3%E5%8C%96) - 深入了解資料，從簡化後的離散變數下手  
+D019. [Subplots](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D19_Subplots) - 資料視覺化，多圖檢視  
+D020. [Heatmap & Grid-plot](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D20_Heatmap%26Grid-plot) - 熱圖：以直觀的方式檢視變數間的相關性，格圖：繪製變數間的散佈圖及分布  
+D021. [模型初體驗 Logistic Regression](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D21_%E6%A8%A1%E5%9E%8B%E5%88%9D%E9%AB%94%E9%A9%97%20Logistic%20Regression) - 在我們開始使用任何複雜的模型之前，有一個最簡單的模型當作 baseline 是一個好習慣  
+## 資料科學特徵工程技術
