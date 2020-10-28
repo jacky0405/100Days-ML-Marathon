@@ -23,3 +23,15 @@ D019. [Subplots](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D1
 D020. [Heatmap & Grid-plot](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D20_Heatmap%26Grid-plot) - 熱圖：以直觀的方式檢視變數間的相關性，格圖：繪製變數間的散佈圖及分布  
 D021. [模型初體驗 Logistic Regression](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D21_%E6%A8%A1%E5%9E%8B%E5%88%9D%E9%AB%94%E9%A9%97%20Logistic%20Regression) - 在我們開始使用任何複雜的模型之前，有一個最簡單的模型當作 baseline 是一個好習慣  
 ## 資料科學特徵工程技術
+D022. [特徵工程簡介](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D22_%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B%E7%B0%A1%E4%BB%8B) - 介紹機器學習完整步驟中，特徵工程的位置以及流程架構  
+D023. [數值型特徵 - 去除偏態](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D23_%E6%95%B8%E5%80%BC%E5%9E%8B%E7%89%B9%E5%BE%B5_%E5%8E%BB%E9%99%A4%E5%81%8F%E6%85%8B) - 數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差  
+D024. [類別型特徵 - 基礎處理](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D24_%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5_%E5%9F%BA%E7%A4%8E%E8%99%95%E7%90%86) - 介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼  
+D025. [類別型特徵 - 均值編碼](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D25_%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5_%E5%9D%87%E5%80%BC%E7%B7%A8%E7%A2%BC) - 類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代  
+D026. [類別型特徵 - 其他進階處理](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D26_%E9%A1%9E%E5%88%A5%E5%9E%8B%E7%89%B9%E5%BE%B5_%E5%85%B6%E4%BB%96%E9%80%B2%E9%9A%8E%E8%99%95%E7%90%86) - 類別型特徵的其他常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵  
+D027. [時間型特徵](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D27_%E6%99%82%E9%96%93%E5%9E%8B%E7%89%B9%E5%BE%B5) - 時間型特徵可抽取出多個子特徵，或周期化，或取出連續時段內的次數  
+D028. [特徵組合 - 數值與數值組合](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D28_%E7%89%B9%E5%BE%B5%E7%B5%84%E5%90%88_%E6%95%B8%E5%80%BC%E8%88%87%E6%95%B8%E5%80%BC%E7%B5%84%E5%90%88) - 特徵組合的基礎 : 以四則運算的各種方式，組合成更具預測力的特徵  
+D029. [特徵組合 - 類別與數值組合](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D29_%E7%89%B9%E5%BE%B5%E7%B5%84%E5%90%88_%E9%A1%9E%E5%88%A5%E8%88%87%E6%95%B8%E5%80%BC%E7%B5%84%E5%90%88) - 類別型對數值型特徵可以做群聚編碼，與目標均值編碼類似，但用途不同  
+D030. [特徵選擇](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D30_%E7%89%B9%E5%BE%B5%E9%81%B8%E6%93%87) - 介紹常見的幾種特徵篩選方式  
+D031. [特徵評估](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D31_%E7%89%B9%E5%BE%B5%E8%A9%95%E4%BC%B0) - 介紹並比較兩種重要的特徵評估方式，協助檢測特徵的重要性  
+D032. [分類型特徵優化 - 葉編碼](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D32_%E5%88%86%E9%A1%9E%E5%9E%8B%E7%89%B9%E5%BE%B5%E5%84%AA%E5%8C%96_%E8%91%89%E7%B7%A8%E7%A2%BC) - 葉編碼 : 適用於分類問題的樹狀預估模型改良  
+## 機器學習基礎模型建立
