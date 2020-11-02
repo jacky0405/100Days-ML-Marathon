@@ -35,3 +35,15 @@ D030. [特徵選擇](https://github.com/jacky0405/100Days-ML-Marathon/tree/maste
 D031. [特徵評估](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D31_%E7%89%B9%E5%BE%B5%E8%A9%95%E4%BC%B0) - 介紹並比較兩種重要的特徵評估方式，協助檢測特徵的重要性  
 D032. [分類型特徵優化 - 葉編碼](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D32_%E5%88%86%E9%A1%9E%E5%9E%8B%E7%89%B9%E5%BE%B5%E5%84%AA%E5%8C%96_%E8%91%89%E7%B7%A8%E7%A2%BC) - 葉編碼 : 適用於分類問題的樹狀預估模型改良  
 ## 機器學習基礎模型建立
+D033. [機器如何學習?](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D33_%E6%A9%9F%E5%99%A8%E5%A6%82%E4%BD%95%E5%AD%B8%E7%BF%92%3F) - 了解機器學習的定義，過擬合 (Overfit) 是甚麼，該如何解決  
+D034. [訓練/測試集切分的概念](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D34_%E8%A8%93%E7%B7%B4_%E6%B8%AC%E8%A9%A6%E9%9B%86%E5%88%87%E5%88%86%E7%9A%84%E6%A6%82%E5%BF%B5) - 為何要做訓練/測試集切分？有什麼切分的方法？  
+D035. [regression vs. classification](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D35_regression_vs._classification) - 回歸問題與分類問題的區別？如何定義專案的目標  
+D036. [評估指標選定/evaluation metrics](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D36_%E8%A9%95%E4%BC%B0%E6%8C%87%E6%A8%99%E9%81%B8%E5%AE%9A_evaluation%20metrics) - 專案該如何選擇評估指標？常用指標有哪些？  
+D037. [regression model 介紹 - 線性迴歸/羅吉斯回歸](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D37_regression%20model%20%E4%BB%8B%E7%B4%B9%20-%20%E7%B7%9A%E6%80%A7%E8%BF%B4%E6%AD%B8_%E7%BE%85%E5%90%89%E6%96%AF%E5%9B%9E%E6%AD%B8) - 線性迴歸/羅吉斯回歸模型的理論基礎與使用時的注意事項  
+D038. [regression model 程式碼撰寫](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D38_regression%20model_%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB) - 如何使用 Scikit-learn 撰寫線性迴歸/羅吉斯回歸模型的程式碼  
+D039. [regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D39_regression%20model%20%E4%BB%8B%E7%B4%B9_LASSO%E5%9B%9E%E6%AD%B8_Ridge%E5%9B%9E%E6%AD%B8) - LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項  
+D040. [regression model 程式碼撰寫](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D40_regression%20model_%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB) - 使用 Scikit-learn 撰寫 LASSO 回歸/ Ridge 回歸模型的程式碼  
+D041. [tree based model - 決策樹 (Decision Tree) 模型介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D41_tree%20based%20model%20-%20%E6%B1%BA%E7%AD%96%E6%A8%B9%20(Decision%20Tree)%20%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%B4%B9) - 決策樹 (Decision Tree) 模型的理論基礎與使用時的注意事項  
+D042. [tree based model - 決策樹程式碼撰寫](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D42_tree%20based%20model%20-%20%E6%B1%BA%E7%AD%96%E6%A8%B9%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB) - 使用 Scikit-learn 撰寫決策樹 (Decision Tree) 模型的程式碼  
+D043. [tree based model - 隨機森林 (Random Forest) 介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D43_tree%20based%20model%20-%20%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%20(Random%20Forest)%20%E4%BB%8B%E7%B4%B9) - 隨機森林 (Random Forest)模型的理論基礎與使用時的注意事項  
+D044. [tree based model - 隨機森林程式碼撰寫](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D44_tree%20based%20model%20-%20%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB) - 使用 Scikit-learn 撰寫隨機森林 (Random Forest) 模型的程式碼
