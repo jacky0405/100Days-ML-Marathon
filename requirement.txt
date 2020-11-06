@@ -4,3 +4,4 @@ matplotlib
 requests
 scikit-learn
 seaborn
+mlxtend
