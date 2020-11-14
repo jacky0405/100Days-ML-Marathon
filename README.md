@@ -46,4 +46,28 @@ D040. [regression model 程式碼撰寫](https://github.com/jacky0405/100Days-ML
 D041. [tree based model - 決策樹 (Decision Tree) 模型介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D41_tree%20based%20model%20-%20%E6%B1%BA%E7%AD%96%E6%A8%B9%20(Decision%20Tree)%20%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%B4%B9) - 決策樹 (Decision Tree) 模型的理論基礎與使用時的注意事項  
 D042. [tree based model - 決策樹程式碼撰寫](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D42_tree%20based%20model%20-%20%E6%B1%BA%E7%AD%96%E6%A8%B9%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB) - 使用 Scikit-learn 撰寫決策樹 (Decision Tree) 模型的程式碼  
 D043. [tree based model - 隨機森林 (Random Forest) 介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D43_tree%20based%20model%20-%20%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%20(Random%20Forest)%20%E4%BB%8B%E7%B4%B9) - 隨機森林 (Random Forest)模型的理論基礎與使用時的注意事項  
-D044. [tree based model - 隨機森林程式碼撰寫](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D44_tree%20based%20model%20-%20%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB) - 使用 Scikit-learn 撰寫隨機森林 (Random Forest) 模型的程式碼
+D044. [tree based model - 隨機森林程式碼撰寫](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D44_tree%20based%20model%20-%20%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB) - 使用 Scikit-learn 撰寫隨機森林 (Random Forest) 模型的程式碼  
+D045. [tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D45_tree%20based%20model%20-%20%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A9%9F%20(Gradient%20Boosting%20Machine)%20%E4%BB%8B%E7%B4%B9) - 梯度提升機 (Gradient Boosting Machine) 模型的理論基礎與使用時的注意事項  
+D046. [tree based model - 梯度提升機程式碼撰寫](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D46_tree%20based%20model%20-%20%E6%A2%AF%E5%BA%A6%E6%8F%90%E5%8D%87%E6%A9%9F%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%92%B0%E5%AF%AB) - 使用 Scikit-learn 撰寫梯度提升機 (Gradient Boosting Machine) 模型的程式碼  
+## 機器學習調整參數
+D047. [超參數調整與優化](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D47_%E8%B6%85%E5%8F%83%E6%95%B8%E8%AA%BF%E6%95%B4%E8%88%87%E5%84%AA%E5%8C%96) - 什麼是超參數 (Hyper-paramter) ? 如何正確的調整超參數？常用的調參方法為何？  
+D048. [Kaggle 競賽平台介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D48_Kaggle_%E7%AB%B6%E8%B3%BD%E5%B9%B3%E5%8F%B0%E4%BB%8B%E7%B4%B9) - 介紹全球最大的資料科學競賽網站。如何參加競賽？  
+D049. [集成方法 : 混合泛化(Blending)](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D49_%E9%9B%86%E6%88%90%E6%96%B9%E6%B3%95_%E6%B7%B7%E5%90%88%E6%B3%9B%E5%8C%96(Blending)) - 什麼是集成? 集成方法有哪些? Blending 的寫作方法與效果為何?  
+D050. [集成方法 : 堆疊泛化(Stacking)](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D50_%E9%9B%86%E6%88%90%E6%96%B9%E6%B3%95_%E5%A0%86%E7%96%8A%E6%B3%9B%E5%8C%96(Stacking))  
+D051-053. [Kaggle 第一次期中考]()  
+## 非監督式機器學習
+D054. [clustering 1 非監督式機器學習簡介](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D54_clustering1_%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%B0%A1%E4%BB%8B) - 非監督式學習簡介、應用場景  
+D055. [clustering 2 聚類算法](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D55_clustering2_%E8%81%9A%E9%A1%9E%E7%AE%97%E6%B3%95) - K-means  
+D056. [K-mean 觀察 : 使用輪廓分析](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D56_K-mean%E8%A7%80%E5%AF%9F_%E4%BD%BF%E7%94%A8%E8%BC%AA%E5%BB%93%E5%88%86%E6%9E%90) - 非監督模型要以特殊評估方法(而非評估函數)來衡量, 今日介紹大家了解並使用其中一種方法 : 輪廓分析  
+D057. [clustering 3 階層分群算法](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D57_clustering3_%E9%9A%8E%E5%B1%A4%E5%88%86%E7%BE%A4%E7%AE%97%E6%B3%95) - hierarchical clustering  
+D058. [階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D58_%E9%9A%8E%E5%B1%A4%E5%88%86%E7%BE%A4%E6%B3%95%E8%A7%80%E5%AF%9F_%E4%BD%BF%E7%94%A82D%E6%A8%A3%E7%89%88%E8%B3%87%E6%96%99%E9%9B%86) - 非監督評估方法 : 2D樣版資料集是什麼? 如何生成與使用?  
+D059. [dimension reduction 1 降維方法-主成份分析](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D59_dimension%20reduction1_%E9%99%8D%E7%B6%AD%E6%96%B9%E6%B3%95-%E4%B8%BB%E6%88%90%E4%BB%BD%E5%88%86%E6%9E%90) - PCA  
+D060. [PCA 觀察 : 使用手寫辨識資料集](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D60_PCA%20%E8%A7%80%E5%AF%9F_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98%E8%B3%87%E6%96%99%E9%9B%86) - 以較複雜的範例 : sklearn版手寫辨識資料集, 展示PCA的降維與資料解釋能力  
+D061. [dimension reduction 2 降維方法-T-SNE](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D61_dimension%20reduction2_%E9%99%8D%E7%B6%AD%E6%96%B9%E6%B3%95-T-SNE) - TSNE  
+D062. [t-sne 觀察 : 分群與流形還原](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D62_t-sne%E8%A7%80%E5%AF%9F_%E5%88%86%E7%BE%A4%E8%88%87%E6%B5%81%E5%BD%A2%E9%82%84%E5%8E%9F) - 什麼是流形還原? 除了 t-sne 之外還有那些常見的流形還原方法?  
+## 深度學習理論與實作
+D063. [神經網路介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D63_%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E7%B0%A1%E4%BB%8B)  
+D064. [深度學習體驗 : 模型調整與學習曲線](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D64_%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E9%AB%94%E9%A9%97_%E6%A8%A1%E5%9E%8B%E8%AA%BF%E6%95%B4%E8%88%87%E5%AD%B8%E7%BF%92%E6%9B%B2%E7%B7%9A) - 介紹體驗平台 TensorFlow PlayGround，並初步了解模型的調整  
+D065. [深度學習體驗 : 啟動函數與正規化](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D65_%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E9%AB%94%E9%A9%97_%E5%95%9F%E5%8B%95%E5%87%BD%E6%95%B8%E8%88%87%E6%AD%A3%E8%A6%8F%E5%8C%96) - 在 TF PlayGround 上，體驗進階版的深度學習參數調整  
+## 初探深度學習使用Keras
+D066. [Keras 安裝與介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D66_Keras%E5%AE%89%E8%A3%9D%E8%88%87%E4%BB%8B%E7%B4%B9)
