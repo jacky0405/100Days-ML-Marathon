@@ -5,3 +5,5 @@ requests
 scikit-learn
 seaborn
 mlxtend
+tensorflow
+keras
