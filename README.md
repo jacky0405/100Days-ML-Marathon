@@ -1,5 +1,5 @@
 # 100Days-ML-Marathon
-![cover](./cover.png)
+![cover](./cover.png)  
 對初學者來說，要進入 AI 與資料科學的領域並不容易，除了程式基礎，還需要有數學與統計的相關知識。透過親身實作，自主學習才能真正掌握 AI 與資料科學的學習精髓。
 ## 機器學習概論
 D001. [資料介紹與評估資料](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D1_%E8%B3%87%E6%96%99%E4%BB%8B%E7%B4%B9%E8%88%87%E8%A9%95%E4%BC%B0%E8%B3%87%E6%96%99) - 挑戰是什麼?動手分析前請三思  
