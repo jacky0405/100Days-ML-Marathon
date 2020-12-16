@@ -72,4 +72,18 @@ D063. [神經網路介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree
 D064. [深度學習體驗 : 模型調整與學習曲線](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D64_%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E9%AB%94%E9%A9%97_%E6%A8%A1%E5%9E%8B%E8%AA%BF%E6%95%B4%E8%88%87%E5%AD%B8%E7%BF%92%E6%9B%B2%E7%B7%9A) - 介紹體驗平台 TensorFlow PlayGround，並初步了解模型的調整  
 D065. [深度學習體驗 : 啟動函數與正規化](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D65_%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E9%AB%94%E9%A9%97_%E5%95%9F%E5%8B%95%E5%87%BD%E6%95%B8%E8%88%87%E6%AD%A3%E8%A6%8F%E5%8C%96) - 在 TF PlayGround 上，體驗進階版的深度學習參數調整  
 ## 初探深度學習使用Keras
-D066. [Keras 安裝與介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D66_Keras%E5%AE%89%E8%A3%9D%E8%88%87%E4%BB%8B%E7%B4%B9)
+D066. [Keras 安裝與介紹](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D66_Keras%E5%AE%89%E8%A3%9D%E8%88%87%E4%BB%8B%E7%B4%B9)  
+D067. [Keras Dataset](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D67_Keras_Dataset)  
+D068. [Keras Sequential API](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D68_Keras_Sequential_API)  
+D069. [Keras Module API](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D69_Keras_Module_API)  
+D070. [深度神經網路的基礎知識](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D70_%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E7%9A%84%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98) - 深度學習網路發展、架構與優缺點  
+D071. [損失函數](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D71_%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8) - 損失函數的介紹與應用  
+D072. [啟動函數](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D72_%E5%95%9F%E5%8B%95%E5%87%BD%E6%95%B8) - 啟動函數的介紹與應用  
+D073. [梯度下降Gradient Descent](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D73_%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8DGradient%20Descent) - 梯度下降簡介  
+D074. [Gradient Descent 數學原理](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D74_Gradient%20Descent_%E6%95%B8%E5%AD%B8%E5%8E%9F%E7%90%86) - 介紹梯度下降的基礎數學原理  
+D075. [BackPropagation](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D75_BackPropagation) - 反向式傳播簡介  
+D076. [優化器optimizers](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D76_%E5%84%AA%E5%8C%96%E5%99%A8optimizers) - 優化器簡介  
+D077. [訓練神經網路的細節與技巧 - Validation and overfit](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D77_%E8%A8%93%E7%B7%B4%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E7%9A%84%E7%B4%B0%E7%AF%80%E8%88%87%E6%8A%80%E5%B7%A7_Validation%20and%20overfit) - 檢視並了解 overfit 現象  
+D078. [訓練神經網路前的注意事項](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D78_%E8%A8%93%E7%B7%B4%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%89%8D%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85) - 資料是否經過妥善的處理？運算資源為何？超參數的設置是否正確？  
+D079. [訓練神經網路的細節與技巧 - Learning rate effect](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D79_%E8%A8%93%E7%B7%B4%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E7%9A%84%E7%B4%B0%E7%AF%80%E8%88%87%E6%8A%80%E5%B7%A7_Learning%20rate%20effect) - 比較不同 Learning rate 對訓練過程及結果的差異  
+D080. [[練習 Day] 優化器與學習率的組合與比較](https://github.com/jacky0405/100Days-ML-Marathon/tree/master/D80_%5B%E7%B7%B4%E7%BF%92%20Day%5D%E5%84%AA%E5%8C%96%E5%99%A8%E8%88%87%E5%AD%B8%E7%BF%92%E7%8E%87%E7%9A%84%E7%B5%84%E5%90%88%E8%88%87%E6%AF%94%E8%BC%83)
